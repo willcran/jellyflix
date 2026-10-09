@@ -1,8 +1,8 @@
 {
-  "name": "screenharbour",
+  "name": "jellyflix",
   "version": "0.2.55",
   "private": true,
-  "description": "A cinematic interface for Jellyfin, with personal collection rows and in-player navigation",
+  "description": "Jellyflix — a cinematic interface for Jellyfin, with personal collection rows and in-player navigation",
   "scripts": {
     "build": "node scripts/build.mjs",
     "build:demo": "node scripts/build-demo.mjs",
